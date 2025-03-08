@@ -1,2 +1,4 @@
 env/
 .vscode/
+models/prediction-model-for-malaria-infected-cells.h5
+models/best_prediction_model_for_paludisme.keras
