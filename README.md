@@ -26,6 +26,7 @@ Système_Detection_Paludisme/
 │   ├── css/
 │   │   ├── style.css
 │   ├── images/
+│   ├── scripts/
 │   ├── upload/
 │── templates/
 │   ├── index.html
